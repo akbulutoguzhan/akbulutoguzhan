@@ -9,7 +9,7 @@
 ## 📖 About me
 
 * :computer: I'm a game developer
-* :guitar: I'm a eself-taught musician
+* :guitar: I'm a self-taught musician
 * :video_game: I make games for all platforms
 * 🎓 I'm a Computer Science student (graduating in 2021)
 
