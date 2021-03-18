@@ -2,16 +2,22 @@
 
 <h3 align="center">Hello, I'm Oğuzhan Akbulut</h3>
 
-<p align="center">
-  <a href="https://github.com/akbulutoguzhan"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/akbulutoguzhan?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-</p>
+<h3 align="center">A passionate game developer and a musician from Turkey</h3>
 
 ## 📖 About me
 
-* :computer: I'm a game developer
-* :guitar: I'm a self-taught musician
-* :video_game: I make games for all platforms
-* 🎓 I'm a Computer Science student (graduating in 2021)
+- :computer: I'm a game developer
+
+- :guitar: I'm a self-taught musician
+
+- 🌱 I’m currently learning **Unity**
+
+- 🎓 I'm a Computer Science student (graduating in 2021)
+
+- 📝 I regularly write (Turkish) articles on [http://bilgisayargunlugum.com/](http://bilgisayargunlugum.com/)
+
+- 📫 How to reach me **akbulutoguzhan@outlook.com.tr**
+
 
 ## 👨‍💻 Languages and Tools:
 
