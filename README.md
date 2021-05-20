@@ -1,13 +1,11 @@
 <h3 align="center"><img width="30%" src="https://i.ibb.co/X8Kzg5W/playing-music-bro.png"></h3>
 
 <h3 align="center">Hello, I'm Oğuzhan Akbulut</h3>
-<h4 align="center">A passionate game developer and a musician from Turkey</h3>
+<h4 align="center">A passionate game developer from Turkey</h3>
 
 ## 📖 About me
 
 - :computer: I'm a game developer
-
-- :guitar: I'm a self-taught musician
 
 - 🌱 I’m currently learning **Unity**
 
