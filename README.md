@@ -78,16 +78,19 @@ Sunday       18 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
 C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
 Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
+Yeni-Bir-Beceri-Kazandin 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
 galaxy-destroyer         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -106,7 +109,7 @@ PHP                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akbulutoguzhan/akbulutoguzhan/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/07/2021
+ Last Updated on 02/07/2021
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
