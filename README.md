@@ -11,7 +11,7 @@
 
 - 🎓 I'm a Computer Science student (graduating in 2021)
 
-- 📝 I regularly write (Turkish) articles on [http://bilgisayargunlugum.com/](http://bilgisayargunlugum.com/)
+- 📝 Here is my personal [portfolio website](https://akbulutoguzhan.github.io/)
 
 - 📫 How to reach me **akbulutoguzhan@outlook.com.tr**
 
