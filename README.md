@@ -29,7 +29,7 @@
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 **🐱 My Github Data** 
 
@@ -72,16 +72,16 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-C#                       1 hr 48 mins        █████████████████████████   100.0%
+C#                       1 hr 16 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-Rider                    1 hr 48 mins        █████████████████████████   100.0%
+Rider                    1 hr 16 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Color The Space          1 hr 48 mins        █████████████████████████   100.0%
+Color The Space          1 hr 16 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.0%
+Windows                  1 hr 16 mins        █████████████████████████   100.0%
 
 ```
 
@@ -100,7 +100,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akbulutoguzhan/akbulutoguzhan/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/09/2021
+ Last Updated on 02/09/2021
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
