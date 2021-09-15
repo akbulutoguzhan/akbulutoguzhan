@@ -72,16 +72,16 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-C#                       1 hr 20 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    1 hr 20 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Color The Space          1 hr 20 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 20 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -100,7 +100,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akbulutoguzhan/akbulutoguzhan/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2021
+ Last Updated on 15/09/2021
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
