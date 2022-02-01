@@ -7,20 +7,17 @@
 
 - :computer: I'm a game developer
 
-- 🌱 I’m currently learning **Unity**
-
-- 🎓 I'm a Computer Science student (graduating in 2021)
+- 🎓 I'm a Computer Science student (graduated in 2021)
 
 - 📫 How to reach me **akbulutoguzhan@outlook.com.tr**
 
 
 ## 👨‍💻 Languages and Tools:
 
-![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=C-sharp&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=Unity&style=flat-square)
-![Rider](https://img.shields.io/badge/-Rider-5C2D91?logo=Rider&style=flat-square)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![CSharp](https://img.shields.io/badge/-C%20Sharp-black?logo=C%20Sharp&style=social)<br />
+![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=social)<br />
+![Unity](https://img.shields.io/badge/-Unity-black?logo=Unity&style=social)<br />
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?logo=UnrealEngine&style=social)
 
 ## 📈 Github Stats
 
