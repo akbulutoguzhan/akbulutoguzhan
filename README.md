@@ -21,10 +21,10 @@
 
 ## 📈 Github Stats
 
-[![akbulutoguzhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akbulutoguzhan)](https://github.com/anuraghazra/github-readme-stats)
+[![akbulutoguzhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akbulutoguzhan)]
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="akbulutoguzhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akbulutoguzhan&show_icons=true&count_private=true&hide=" /></a>
 <!--START_SECTION:activity-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akbulutoguzhan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akbulutoguzhan&theme=onedark)]
