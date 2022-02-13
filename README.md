@@ -21,7 +21,6 @@
 
 ## 📈 Github Stats
 
-[![akbulutoguzhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akbulutoguzhan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="akbulutoguzhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akbulutoguzhan&show_icons=true&count_private=true&hide=" /></a>
