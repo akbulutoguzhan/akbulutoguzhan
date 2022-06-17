@@ -5,7 +5,7 @@
 
 ## 📖 About me
 
-- :computer: I'm a game developer
+- :computer: I'm a game developer at Gnarly Games
 
 - 🎓 I'm a Computer Science student (graduated in 2021)
 
