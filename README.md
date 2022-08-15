@@ -15,12 +15,9 @@
 ## 👨‍💻 Languages and Tools:
 
 ![CSharp](https://img.shields.io/badge/-C%20Sharp-black?logo=C%20Sharp&style=social)<br />
-![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=social)<br />
 ![Unity](https://img.shields.io/badge/-Unity-black?logo=Unity&style=social)<br />
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?logo=UnrealEngine&style=social)
 
 ## 📈 Github Stats
-
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="akbulutoguzhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akbulutoguzhan&show_icons=true&count_private=true&hide=" /></a>
