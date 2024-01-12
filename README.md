@@ -11,12 +11,6 @@
 
 - 📫 How to reach me **akbulutoguzhan@outlook.com.tr**
 
-
-## 👨‍💻 Languages and Tools:
-
-![CSharp](https://img.shields.io/badge/-C%20Sharp-black?logo=C%20Sharp&style=social)<br />
-![Unity](https://img.shields.io/badge/-Unity-black?logo=Unity&style=social)<br />
-
 ## 📈 Github Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
